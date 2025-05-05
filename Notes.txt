@@ -1,0 +1,128 @@
+vs code :-integrated development environment
+
+
+Elements:-
+1.inline
+2.inline-block:-it takes requires space only do not create a new line and also accept the width height,margin,bottom.
+         Ex:img,input tags,all multimedia
+3.block level :-it take 100% width and creates a new line.
+                ex: heading tags, paragraph ,table tags,div
+
+
+
+
+Tables:
+
+table tags are used to set the data in tabular formate..
+
+Table tag:-<table></table> 
+   ->it acts like a table container
+
+Table row:-<tr></tr> 
+   -> it difine a table row
+
+Table heading:-<th></th>  
+   ->it defain a table heading
+
+Table data:-<td></td> 
+   ->it define a table data
+
+
+Table attributes:
+------------------
+border,cellspacing,cellpadding,colspan,rowspan,width,hight,backgrund color.
+
+
+From attributes:
+----------------
+action,method,autocomplete,novalidate,enctype
+
+lable attributes:
+-----------------
+
+
+input attributes:
+-----------------
+type,id,name,placeholder,min,max,min-length,max-length,required,diabled,value,autofocus,selected,multiple,accept, cols, rows,
+
+
+
+selected drop down---> a user interface element, also known as a dropdown list or pull-down menu, that allows users to choose a single value from a list of options
+data list drop down--> combo box
+
+
+patterns:-         
+-----------
+pattern="Regular Expression"
+title="Using only lowercases"
+[]:-we can start pattern in square bracs
+[a-z]:-any single character from lowercases a-z
+\d:-digits
+\s:-space
+!@#$%^&*:-special characters
+[a-z]+:-it accept the multiple characters from a-z
+
+Number pattern:-
+----------------
+pattern ="[6-9][0-9]{9}"
+phone number pattern="+-91[6-9][0-9]{9}"
+
+[a-z]{9}+@$\d
+
+Email patterns:-
+------------------
+pattern:-"[a-z0-9!@#$%^*.]+@[a-z]+.[a-z]{4}
+
+
+-----------------
+HTML COMPLETED
+-----------------
+
+
+
+
+VCS :- version control system
+GITHUB:- GitHub is a platfrom where we can store a data and track manage and update.
+         it is used for deployment and maintained by Microsoft.
+GIT :- git is a distributed vcs(version control system).
+
+1.working area
+  ->git init
+  ->git add filename
+  ->git add filename,
+  ->filename,filename ………
+2.Staging area/tracking area
+  ->git commit -m "message"
+3.commit area
+  ->git push
+4.remote repo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
